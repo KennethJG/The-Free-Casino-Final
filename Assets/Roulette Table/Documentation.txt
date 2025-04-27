@@ -1,0 +1,25 @@
+Materials: 
+Iron - Polished:
+(Standard shader, opaque, solid color, metallic 1, smoothness 1)
+
+With all other materials the default shaders are set as such:
+(Standard shader, opaque, texture with corresponding name, metallic 1, smoothness 0.24)
+
+In case of missing textures, all the textures can be found in the Textures folder. 
+
+Shaders can be adjusted according to preference.
+In the Textures folder are included two different types of wood for the Trim material.  
+Any custom material can also be used. UV maps are included in the UVs folder. 
+The handle and spikes on the wheel use a solid material. (Iron - Polished)
+
+Image textures:
+Numbers.png		- 1000 x 1080
+Ramp.png		- 800 x 800
+Table.png		- 1024 x 463
+Wheel.png		- 800 x 831
+Wood1.png		- 3840 x 2560
+Wood2.png		- 1920 x 1080
+
+If any questions should arise, contact me on
+Discord: Oystyr#4528 
+email: info@3dtaco.net

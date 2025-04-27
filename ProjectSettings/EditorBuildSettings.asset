@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Casino_Scene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/BlackJackGame.unity
+    guid: 1cf72e39bb508aa4499ea9e3a199774c
+  - enabled: 1
+    path: Assets/Scenes/RoulleteGame.unity
+    guid: c27cc60d503c0a24a8684462f6e0f83b
+  - enabled: 1
+    path: Assets/Scenes/SlotMachine.unity
+    guid: 5cdbbc98ea93d4c438d647bda6791e2c
+  - enabled: 1
+    path: Assets/Scenes/Baccuratte.unity
+    guid: cd61772df37d4854c8a83bd875a745e2
+  - enabled: 1
+    path: Assets/Scenes/Poker.unity
+    guid: 1274d11a8e74dbc4b90ce743ded657a8
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

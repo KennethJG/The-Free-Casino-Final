@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4782aab19caf6645b19a6531d14a1db
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206098
+  packageName: Basic American Roulette Table
+  packageVersion: 1.0.0
+  assetPath: Assets/Roulette Table/Materials/Wheel.mat
+  uploadId: 469510

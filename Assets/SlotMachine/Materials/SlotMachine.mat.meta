@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 55b7c5d163707aa41a22ef1b79fa384b
+timeCreated: 1583849110
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164719
+  packageName: Slot Machine
+  packageVersion: 1.0
+  assetPath: Assets/SlotMachine/Materials/SlotMachine.mat
+  uploadId: 359345

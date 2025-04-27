@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3211a3179a419d43a9a0592a752d11c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206098
+  packageName: Basic American Roulette Table
+  packageVersion: 1.0.0
+  assetPath: Assets/Roulette Table/Materials/Trim.mat
+  uploadId: 469510

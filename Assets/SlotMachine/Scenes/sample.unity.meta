@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f03defd1c270e4b46856b915656b1e04
+timeCreated: 1583849326
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164719
+  packageName: Slot Machine
+  packageVersion: 1.0
+  assetPath: Assets/SlotMachine/Scenes/sample.unity
+  uploadId: 359345

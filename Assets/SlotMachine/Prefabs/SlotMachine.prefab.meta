@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 75dff9bf64a840142a2d2380411c780c
+timeCreated: 1583852713
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164719
+  packageName: Slot Machine
+  packageVersion: 1.0
+  assetPath: Assets/SlotMachine/Prefabs/SlotMachine.prefab
+  uploadId: 359345
